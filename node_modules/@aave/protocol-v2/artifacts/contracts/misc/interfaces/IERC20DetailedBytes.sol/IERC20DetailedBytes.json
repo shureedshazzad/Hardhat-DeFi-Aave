@@ -1,0 +1,50 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IERC20DetailedBytes",
+  "sourceName": "contracts/misc/interfaces/IERC20DetailedBytes.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "decimals",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "name",
+      "outputs": [
+        {
+          "internalType": "bytes32",
+          "name": "",
+          "type": "bytes32"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "symbol",
+      "outputs": [
+        {
+          "internalType": "bytes32",
+          "name": "",
+          "type": "bytes32"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608060405234801561001057600080fd5b5060ad8061001f6000396000f3fe6080604052348015600f57600080fd5b5060043610603c5760003560e01c806306fdde03146041578063313ce56714605957806395d89b4114605f575b600080fd5b60476065565b60408051918252519081900360200190f35b6047606b565b60476071565b60005481565b60025481565b6001548156fea2646970667358221220ec3ec4ff82fd14dba7be609a32d9c9973ba5e423cbfc686f0529f8f905d9a52164736f6c634300060c0033",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b5060043610603c5760003560e01c806306fdde03146041578063313ce56714605957806395d89b4114605f575b600080fd5b60476065565b60408051918252519081900360200190f35b6047606b565b60476071565b60005481565b60025481565b6001548156fea2646970667358221220ec3ec4ff82fd14dba7be609a32d9c9973ba5e423cbfc686f0529f8f905d9a52164736f6c634300060c0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
